@@ -1,0 +1,10 @@
+dbone:
+  url: jdbc:mysql://localhost:3306/test?characterEncoding=UTF-8
+  username: root
+  password: root
+  driverClassName: com.mysql.jdbc.Driver
+dbtwo:
+  url: jdbc:mysql://localhost:3306/test1?characterEncoding=UTF-8
+  username: root
+  password: root
+  driverClassName: com.mysql.jdbc.Driver
